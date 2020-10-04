@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  zippyops-gitlab:
+  - apiVersion: v2
+    appVersion: 13.4.1-ce.0
+    created: "2020-10-04T11:25:16.846515698+05:30"
+    description: A Helm chart for Kubernetes which is created by zippyops's-employee
+      krishnaveni
+    digest: f127dbe208924ec04fc1662120427053454e02106c74ba869657bf8b3f091c4b
+    name: zippyops-gitlab
+    urls:
+    - https://github.com/KrishnaveniM1017/my-helm-charts/releases/download/zippyops-gitlab-0.1.0/zippyops-gitlab-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-04T11:25:16.453215944+05:30"
